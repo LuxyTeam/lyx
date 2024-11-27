@@ -1,0 +1,20 @@
+{
+  "name": "your-api",
+  "version": "1.0.7-d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "downloaders",
+    "religion",
+    "searching",
+    "tools"
+  ],
+  "author": "kazedepid",
+  "dependencies": {
+        "axios": "^1.7.7",
+        "cheerio": "^1.0.0"
+    }
+}
